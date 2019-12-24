@@ -3,6 +3,11 @@
 *.aar
 *.ap_
 *.aab
+*.pkg
+*.dmg
+*.exe
+*.dll
+*.zosa
 
 # Files for the ART/Dalvik VM
 *.dex
